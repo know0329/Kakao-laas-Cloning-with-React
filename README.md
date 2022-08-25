@@ -13,10 +13,14 @@ Used BoilerPlate url : https://github.com/react-boilerplate/react-boilerplate-cr
 
 <Front Folder structure> 
 ```  
-📦 frontend         
-└─ my-app          
-   └─ client       
-      ├─ src          
+📦 frontend  
+  
+└─ my-app     
+  
+   └─ client   
+  
+      ├─ src       
+  
       │  ├─ app          
       │  │  ├─ components             
       │  │  └─ pages                           
