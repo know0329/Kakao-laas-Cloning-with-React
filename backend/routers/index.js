@@ -1,0 +1,15 @@
+const express = require("express");
+const loginRouter = require("./login");
+const searchRouter = require("./search");
+const signupRouter = require("./signup");
+const verifyRouter = require("./tokenverify");
+const categoryRouter = require("./category");
+const filterRouter = require("./filter");
+const router = express.Router();
+router.use("/login", loginRouter);
+router.use("/search", searchRouter);
+router.use("/signup", signupRouter);
+router.use("/verify", verifyRouter);
+router.use("/category", categoryRouter);
+router.use("/filter", filterRouter);
+module.exports = router;
