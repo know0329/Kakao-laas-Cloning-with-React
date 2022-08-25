@@ -6,3 +6,7 @@ The Project planned to study basis of front/back-end with React and NodeJS
 
 
 The Project operates at local environment
+
+Front File is basis on BoilerPlate 
+
+Used BoilerPlate url : https://github.com/react-boilerplate/react-boilerplate-cra-template 
