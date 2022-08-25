@@ -14,8 +14,8 @@ Used BoilerPlate url : https://github.com/react-boilerplate/react-boilerplate-cr
 <Front Folder structure>
  
   
-  
-frontend ---- my-app
+|||  
+frontend ------- my-app
   
                 | 
   
@@ -23,17 +23,17 @@ frontend ---- my-app
   
                 |   
   
-                ------- scr --------|
+                ------- scr ------- |
   
                  public             |
   
                  etc                | 
   
-                                    ------- app------------- |
+                                    ------- app ------- |
   
-                                            locales          componets
+                                            locales      componets
                                             
-                                            reducers         pages
+                                            reducers     pages
                                             
                                             sagas
 
