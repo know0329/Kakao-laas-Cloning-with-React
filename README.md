@@ -14,19 +14,34 @@ Used BoilerPlate url : https://github.com/react-boilerplate/react-boilerplate-cr
 <Front Folder structure>
 
 frontend ---- my-app
+  
                 | 
+  
               client
+  
                 |   
+  
                 ------- scr --------|
+  
                  public             |
+  
                  etc                | 
+  
                                     ------- app------------- |
+  
                                             locales          componets
+                                            
                                             reducers         pages
+                                            
                                             sagas
+
                                             store
+
                                             styles
+
                                             types
+
                                             uitls
+
                                             etc
 <Server Folder structure>
