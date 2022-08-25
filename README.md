@@ -10,3 +10,23 @@ The Project operates at local environment
 Front File is basis on BoilerPlate 
 
 Used BoilerPlate url : https://github.com/react-boilerplate/react-boilerplate-cra-template 
+
+<Front Folder structure>
+
+frontend ---- my-app
+                | 
+              client
+                |   
+                ------- scr --------|
+                 public             |
+                 etc                | 
+                                    ------- app------------- |
+                                            locales          componets
+                                            reducers         pages
+                                            sagas
+                                            store
+                                            styles
+                                            types
+                                            uitls
+                                            etc
+<Server Folder structure>
