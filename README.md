@@ -15,12 +15,12 @@ Used BoilerPlate url : https://github.com/react-boilerplate/react-boilerplate-cr
 ```
 📦 frontend
   
-└─ my-app
+└─ my-app  
   
-   └─ client 
-      ├─ src 
-      │  ├─ app 
-      │  │  ├─ components 
+   └─ client   
+      ├─ src   
+      │  ├─ app   
+      │  │  ├─ components   
       │  │  └─ pages 
       │  ├─ local 
       │  ├─ reducers 
