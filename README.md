@@ -36,5 +36,6 @@ Used BoilerPlate url : https://github.com/react-boilerplate/react-boilerplate-cr
 In Backend, server.js was designed to experiment with a single function
   
 To operation Program nomally, 
-  please move to client direcoty and input 'yarn start'
-  and input 'node index.js' at backend  
+  please move to client direcoty and input 'yarn start' (front)
+  and 
+ input 'node index.js' at backend  (back)
