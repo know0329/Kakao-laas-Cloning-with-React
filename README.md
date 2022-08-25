@@ -12,8 +12,7 @@ Front File is basis on BoilerPlate
 Used BoilerPlate url : https://github.com/react-boilerplate/react-boilerplate-cra-template 
 
 <Front Folder structure> 
-```
-📦 frontend
+```📦 frontend
 └─ my-app
   
    └─ client
