@@ -18,12 +18,12 @@ server.use("/", router);
 var db;
 const MongoClient = require("mongodb").MongoClient;
 MongoClient.connect(
-	"mongodb+srv://imo:imo@laas-db.zdf6u.mongodb.net/?retryWrites=true&w=majority",
+	"mongodb+srv://계정이름@DB이름.zdf6u.mongodb.net/?retryWrites=true&w=majority",
 	function (err, client) {
 		if (err) {
 			return console.log(err);
 		}
-		db = client.db("laas-db");
+		db = client.db("DB이름");
 
 		server.listen(port, () => console.log(`Listening on port ${port}`));
 	}
